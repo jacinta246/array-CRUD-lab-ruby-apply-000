@@ -10,7 +10,5 @@ end
 
 #add_element_to_end_of_array
 def add_element_to_end_of_array(array, element)
-  ["pizza", "pasta", "cheese"]
+ array <<element
 end
-
-["pizza", "pasta", "cheese"] << "rice"

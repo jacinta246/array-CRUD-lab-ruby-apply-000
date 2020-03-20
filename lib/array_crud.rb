@@ -13,4 +13,4 @@ def add_element_to_end_of_array(array, element)
   ["pizza", "pasta", "cheese"]
 end
 
-add_element_to_end_of_array(array, element) << "rice"
+add_element_to_end_of_array(array, element) << "element"

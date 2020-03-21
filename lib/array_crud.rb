@@ -39,4 +39,4 @@ def retrieve_first_element_from_array (array)
 end
 
 #retrieve_last_element_from_array
-def retrieve_last_element_from_array 
+def retrieve_last_element_from_array (array)
